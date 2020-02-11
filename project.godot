@@ -15,22 +15,23 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Mini PC Template"
-run/main_scene="res://main.tscn"
+config/name="Mini Template"
+run/main_scene="res://src/main.tscn"
 config/icon="res://icon.png"
 
 [display]
 
-window/size/width=120
-window/size/height=90
-window/size/test_width=480
-window/size/test_height=360
+window/size/width=160
+window/size/height=120
+window/size/test_width=640
+window/size/test_height=480
 window/stretch/mode="2d"
 window/stretch/aspect="keep"
 
 [gui]
 
-theme/custom="res://mini_theme.tres"
+theme/custom="res://assets/theme/mini_theme.tres"
+theme/custom_font="res://assets/theme/mini_font.tres"
 
 [importer_defaults]
 

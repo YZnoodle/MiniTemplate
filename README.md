@@ -1,5 +1,5 @@
 # MiniTemplate
-A mini template in the form of low resolution PC (120x90) games for Godot  
+A mini template (120x90) for Godot games  
 This is what it looks like:  
 
-<img src="https://github.com/YZnoodle/MiniPCTemplate/blob/master/resource/result.png" width="400" />
+<img src="https://github.com/YZnoodle/MiniTemplate/blob/master/resource/result.png" width="400" />
